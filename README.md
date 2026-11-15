@@ -33,7 +33,8 @@ Downloaded the official virtual appliance and imported it into VirtualBox.
 # Reference: https://documentation.wazuh.com/current/deployment-options/virtual-machine/
 ```
 
-![Wazuh dashboard overview](screenshots/01-wazuh-dashboard-overview.png)
+<img width="1917" height="957" alt="Screenshot 2026-11-15 201859" src="https://github.com/user-attachments/assets/d2aba19c-f744-4310-b323-87e73a833c6b" />
+
 
 ## 2. Deploy the Windows agent
 
