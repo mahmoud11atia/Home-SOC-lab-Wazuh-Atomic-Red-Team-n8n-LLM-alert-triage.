@@ -1,0 +1,1 @@
+# Home-SOC-lab-Wazuh-Atomic-Red-Team-n8n-LLM-alert-triage.
